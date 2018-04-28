@@ -1,11 +1,11 @@
 // write your code below!
 function happyHolidays() {
-return "Happy holidays!"  
+return "Happy holidays!"  // typed H instead of h
 }
 
 function happyHolidaysTo(name) {
   
-  return `Happy holidays, ${name}!`
+  return `Happy holidays, ${name}!` // missed out the exclamation mark(!)
 }
 
 function happyHolidayTo(holiday, name) {
